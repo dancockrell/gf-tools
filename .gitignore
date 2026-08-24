@@ -1,0 +1,18 @@
+
+# credentials - never commit
+*.key
+*.log
+*.pem
+*.pyc
+*creds*
+*token*.txt
+.DS_Store
+.env
+.env.*
+.venv/
+Thumbs.db
+__pycache__/
+build/
+dist/
+node_modules/
+venv/

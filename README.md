@@ -1,6 +1,6 @@
 # Ghost Front — tools
 
-The test harness and release tooling for [Ghost Front](../ghost-front).
+The test harness and release tooling for [Ghost Front](https://github.com/dancockrell/ghost-front).
 The game itself is one self-contained HTML file; this is everything used to
 keep it honest.
 
